@@ -1,9 +1,9 @@
-# travis_qmake_gcc_cpp14_5
+# travis_qmake_gcc_cpp14_r
 
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
-master|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_5.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_5)
-develop|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_5.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/)
+master|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_r.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_r)
+develop|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_r.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/)
 
 This GitHub is part of:
 
