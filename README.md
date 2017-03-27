@@ -20,7 +20,7 @@ The goal of this project is to have a clean Travis CI build, with specs:
 
 More complex builds:
 
- * [none]
+ * Install the R package `igraph`: [travis_qmake_gcc_cpp14_r_igraph](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_r_igraph)
 
 Builds of similar complexity:
 
