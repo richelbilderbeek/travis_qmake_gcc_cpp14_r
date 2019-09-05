@@ -1,11 +1,18 @@
 language: cpp
+dist: bionic
 compiler: gcc
+<<<<<<< HEAD
 dist: bionic
 
 install: 
   - sudo apt update -qq
   # R
   - sudo apt-get install r-base r-base-dev
+=======
+
+install: 
+  - sudo apt update -qq
+>>>>>>> develop
 
 script: 
   - qmake
